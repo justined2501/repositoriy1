@@ -1,1 +1,2 @@
-print("VERSION 1.1 PROGRAM ")
+open("file3.cod")
+print("test comit")
